@@ -1,1 +1,1 @@
-##[Project Euler](https://projecteuler.net/problems) Solutions
+[Project Euler](https://projecteuler.net/problems) Solutions
